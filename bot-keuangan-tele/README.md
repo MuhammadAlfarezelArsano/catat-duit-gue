@@ -89,6 +89,4 @@ node bot-keuangan-tele/index.js
     git push origin main
     ```
 
-Cek sekarang di browser, tampilan GitHub kamu pasti langsung "naik kelas"! Sukses ya! Ada lagi yang mau dibereskan?
-
 ```
